@@ -1,0 +1,11 @@
+D:\5th Semester\Visual Programming\source\repos\Form-10\bin\Debug\Form-10.exe.config
+D:\5th Semester\Visual Programming\source\repos\Form-10\bin\Debug\Form-10.exe
+D:\5th Semester\Visual Programming\source\repos\Form-10\bin\Debug\Form-10.pdb
+D:\5th Semester\Visual Programming\source\repos\Form-10\obj\Debug\Form-10.csproj.AssemblyReference.cache
+D:\5th Semester\Visual Programming\source\repos\Form-10\obj\Debug\Form-10.csproj.SuggestedBindingRedirects.cache
+D:\5th Semester\Visual Programming\source\repos\Form-10\obj\Debug\Form_10.Form1.resources
+D:\5th Semester\Visual Programming\source\repos\Form-10\obj\Debug\Form_10.Properties.Resources.resources
+D:\5th Semester\Visual Programming\source\repos\Form-10\obj\Debug\Form-10.csproj.GenerateResource.cache
+D:\5th Semester\Visual Programming\source\repos\Form-10\obj\Debug\Form-10.csproj.CoreCompileInputs.cache
+D:\5th Semester\Visual Programming\source\repos\Form-10\obj\Debug\Form-10.exe
+D:\5th Semester\Visual Programming\source\repos\Form-10\obj\Debug\Form-10.pdb
